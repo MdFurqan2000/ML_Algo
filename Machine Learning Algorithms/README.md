@@ -1,4 +1,4 @@
-# Machine-Learning-Algorithms// Vageesh
-♦️ This repository contains the codes of different machine learning algorithms.
+# Machine-Learning-Algorithms
+♦️ This repo is created to get the codes of different machine learning algorithms for model implementation real quick.
 
-♦️ This repo has model implementation only with no pre processing of the data, Check EDA & Data PreProcessing folder as well.
+♦️ Just to my time.
